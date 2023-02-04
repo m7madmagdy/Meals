@@ -26,5 +26,4 @@ class MealsViewModel @Inject constructor(private val getMealsUseCase: GetMeals) 
             }
         }
     }
-
 }
